@@ -20,9 +20,8 @@ setup(
     version='0.1',
     description='',
     author='eteamin',
-    author_email='',
-    url='',
-    packages=find_packages(exclude=['ez_setup']),
+    author_email='eteamin@yahoo.com',
+    url='https://github.com/eteamin/crow_messenger',
     install_requires=install_requires,
     include_package_data=True,
 )
